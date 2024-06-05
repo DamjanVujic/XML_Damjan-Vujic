@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pobjednici>
+    <igra>
+        <godina>2023</godina>
+        <naziv>Baldur's Gate 3</naziv>
+        <developer>Larian Studios</developer>
+        <zanr>Role-playing</zanr>
+        <image>baldursgate.jpg</image>
+    </igra>
+    <igra>
+        <godina>2022</godina>
+        <naziv>Elden Ring</naziv>
+        <developer>FromSoftware</developer>
+        <zanr>Action role-playing</zanr>
+        <image>eldenring.jpg</image>
+    </igra>
+    <igra>
+        <godina>2021</godina>
+        <naziv>It Takes Two</naziv>
+        <developer>Hazelight Studios</developer>
+        <zanr>Action-adventure</zanr>
+        <image>ittakestwo.jpg</image>
+    </igra>
+    <igra>
+        <godina>2020</godina>
+        <naziv>The Last of Us Part II</naziv>
+        <developer>Naughty Dog</developer>
+        <zanr>Action-adventure</zanr>
+        <image>lastofus.jpg</image>
+    </igra>
+    <igra>
+        <godina>2019</godina>
+        <naziv>Sekiro: Shadows Die Twice</naziv>
+        <developer>FromSoftware</developer>
+        <zanr>Action-adventure</zanr>
+        <image>sekiro.jpg</image>
+    </igra>
+    <igra>
+        <godina>2018</godina>
+        <naziv>God of War</naziv>
+        <developer>Santa Monica Studio</developer>
+        <zanr>Action-adventure</zanr>
+        <image>godofwar.jpg</image>
+    </igra>
+    <igra>
+        <godina>2017</godina>
+        <naziv>The Legend of Zelda: Breath of the Wild</naziv>
+        <developer>Nintendo EPD</developer>
+        <zanr>Action-adventure</zanr>
+        <image>zelda.jpg</image>
+    </igra>
+    <igra>
+        <godina>2016</godina>
+        <naziv>Overwatch</naziv>
+        <developer>Blizzard Entertainment</developer>
+        <zanr>First-person shooter</zanr>
+        <image>overwatch.jpg</image>
+    </igra>
+    <igra>
+        <godina>2015</godina>
+        <naziv>The Witcher 3: Wild Hunt</naziv>
+        <developer>CD Projekt Red</developer>
+        <zanr>Action role-playing</zanr>
+        <image>witcher.jpg</image>
+    </igra>
+    <igra>
+        <godina>2014</godina>
+        <naziv>Dragon Age: Inquisition</naziv>
+        <developer>BioWare</developer>
+        <zanr>Action role-playing</zanr>
+        <image>dragonage.jpg</image>
+    </igra>
+
+</pobjednici>
